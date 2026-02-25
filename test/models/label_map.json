@@ -1,0 +1,17 @@
+{
+  "label_to_idx": {
+    "a": 0,
+    "have": 1,
+    "I": 2,
+    "question": 3,
+    "Teacher": 4
+  },
+  "idx_to_label": {
+    "0": "a",
+    "1": "have",
+    "2": "I",
+    "3": "question",
+    "4": "Teacher"
+  },
+  "num_classes": 5
+}

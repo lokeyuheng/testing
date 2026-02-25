@@ -1,0 +1,21 @@
+{
+  "label_to_idx": {
+    "angry": 0,
+    "confused": 1,
+    "down": 2,
+    "happy": 3,
+    "neutral": 4,
+    "questioning": 5
+  },
+  "idx_to_label": {
+    "0": "angry",
+    "1": "confused",
+    "2": "down",
+    "3": "happy",
+    "4": "neutral",
+    "5": "questioning"
+  },
+  "num_classes": 6,
+  "num_features": 52,
+  "model_type": "emotion_svm_frame"
+}
